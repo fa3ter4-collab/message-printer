@@ -8,7 +8,7 @@ public class MessagePrinter {
     }
 
     public static void printWelcome() {
-    System.out.println("Welcome from version A!");
+    System.out.println("Welcome from local version B!");
     }
 
     public static void printTime() {
